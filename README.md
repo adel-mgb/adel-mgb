@@ -17,9 +17,8 @@
 
 ## 💼 Projets récents
 
-- 🛒 [Plateforme E-commerce](https://github.com/adel-mgb/ecommerce-app)
-- 📱 [Todo App Mobile](https://github.com/adel-mgb/todo-app-mobile)
-- 🌐 [Plateforme Officines Pharmaceutiques](https://github.com/adel-mgb/pharma-platform)
+- 🛒 [Plateforme EasyCom - web](https://github.com/Zakaria-bls/easyCom)
+- 📱 [Plateforme EasyCom - mobile](https://github.com/Zakaria-bls/EasyComMobile)
 
 ---
 
