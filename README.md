@@ -17,8 +17,8 @@
 
 ## 💼 Projets récents
 
-- 🛒 [Plateforme EasyCom - web](https://github.com/Zakaria-bls/easyCom)
-- 📱 [Plateforme EasyCom - mobile](https://github.com/Zakaria-bls/EasyComMobile)
+- 🛒 [Plateforme EasyCom - web](https://github.com/adel-mgb/easyCom)
+- 📱 [Plateforme EasyCom - mobile](https://github.com/adel-mgb/EasyComMobile)
 
 ---
 
