@@ -9,7 +9,7 @@
 ## 🛠️ Compétences principales
 
 - **Frontend** : React.js, HTML5, CSS3, JavaScript
-- **Backend** : Node.js, Express.js, MongoDB, SQLite
+- **Backend** : Node.js, Express.js, Laravel, PHP, FireBase, MongoDB, MySQL, 
 - **Mobile** : React Native
 - **Outils** : Git, GitHub, Figma, VS Code, Postman
 
